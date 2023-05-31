@@ -20,7 +20,7 @@ function App() {
           userInfo={{
             displayName: "AMAN",
           }}
-          getIFrameRef={(node) => (node.style.height = "1000px")}
+          getIFrameRef={(node) => (node.style.height = "500px")}
         />
       </>
     </div>
